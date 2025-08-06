@@ -51,6 +51,3 @@ Contributions to enhance analysis, suggest improvements, or add visualization co
 This project is intended for educational and business intelligence purposes. No commercial license is applied.
 
 Feel free to ask if you want me to help with adding code snippets, deployment instructions, or dashboard integration steps!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/37970149/ea93b24b-23b9-499e-a547-554250f2f11a/Regional-sales-analysis.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/37970149/8022cc00-3986-4067-b57e-c41b006a21df/Regional-Sales-Analysis_PPT.pptx
